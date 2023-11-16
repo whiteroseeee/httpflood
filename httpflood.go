@@ -1,5 +1,5 @@
 /*
-Coded by whiterose
+Coded by whiteroseeeee
 Please fking code ur script by ur self, kid.
 
 I changed the random integers range to the max of int32.
@@ -221,8 +221,8 @@ func main() {
 	fmt.Println(" ||  ||    ||      ||     ||  ||      ||       ||  ||  || ||  || ||  ||  ")
 	fmt.Println(".||  ||.   `|..'   `|..'  ||..|'     .||.     .||. `|..|' `|..|' `|..||. ")
 	fmt.Println("                          ||                                             ")
-	fmt.Println("                         .||                    Golang version 2.0       ")
-	fmt.Println("                                                       C0d3d By whiterose")
+	fmt.Println("                         .||                    Golang version 2.1       ")
+	fmt.Println("                                                    C0d3d By whiteroseeee")
 	fmt.Println("==========================================================================")
 	if len(os.Args) != 6 {
 		fmt.Println("Post Mode will use header.txt as data")
