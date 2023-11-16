@@ -1,6 +1,5 @@
 # httpflood
-# httpflood
-# ![](https://img.shields.io/badge/Version-2.0-brightgreen.svg) ![](https://img.shields.io/badge/license-MIT-blue.svg)
+# ![](https://img.shields.io/badge/Version-2.0-brightgreen.svg)
 Using Golang(net/socket) to httpflood
 
 **hello guys, this is a project I made, I hope you don't use it for the wrong purpose, I'm not responsible for everything you do!!! Thank You**
